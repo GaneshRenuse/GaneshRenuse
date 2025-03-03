@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GaneshRenuse&theme=discord" alt="GaneshRenuse" /></a> </p>
 
-- 🔭 I’m currently working on [python and django](https://github.com/GaneshRenuse/Python-Codes-and-projects)
-- 👯 I’m looking to collaborate on **Topics like AI ML, Cloud, Data science.**
+- 🔭 I’m currently working on [Hibernate and SpringBoot](https://github.com/GaneshRenuse/Python-Codes-and-projects)
+- 👯 I’m looking to collaborate on **Topics like Software development, System design, Backend development.**
 - 🤝 I’m looking for help with [My personal portfolio website](https://github.com/GaneshRenuse/web-development)
-- 🌱 I’m currently learning **django, AI ML, Data science, Cloud Computing**
-- 💬 Ask me about **java, cpp, python, Data structures**
+- 🌱 I’m currently learning **Hibernate Java, SpringBoot, System design, Javascript and React**
+- 💬 Ask me about **java, Problem solving, Algorithms, Data structures**
 - 📫 How to reach me **ganesh21renuse3@gmail.com**
 - ⚡ Fun fact **coding is more like a hobby to me. **
 
