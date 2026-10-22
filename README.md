@@ -22,6 +22,13 @@
 <p align="left">
 <a href="https://twitter.com/@Ganesh_29R" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@Ganesh_29R" height="30" width="40" /></a><a href="https://linkedin.com/in/ganesh-renuse-1a40ab1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ganesh-renuse-1a40ab1ba" height="30" width="40" /></a><a href="https://www.hackerrank.com/@ganesh21renuse3" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="@ganesh21renuse3" height="30" width="40" /></a><a href="https://www.leetcode.com/GaneshR29" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="GaneshR29" height="30" width="40" /></a><a href="https://instagram.com/ganesh29.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ganesh29.ai" height="30" width="40" /></a></p>
 
+<h2 align="left">LeetCode Stats</h2>
+<p align="center">
+  <a href="https://leetcode.com/GaneshR29" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/GaneshR29?theme=dark&ext=heatmap" alt="LeetCode Stats for GaneshR29" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
